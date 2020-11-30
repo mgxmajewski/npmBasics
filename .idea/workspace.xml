@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5973b1e4-bfea-4218-926d-a4a2e53821d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5973b1e4-bfea-4218-926d-a4a2e53821d7" name="Default Changelist" comment="Adds example usage code (Technic 1)&#10;Generate a salt and hash on separate function calls">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +48,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606694211764</updated>
-      <workItem from="1606694212807" duration="1804000" />
+      <workItem from="1606694212807" duration="3398000" />
     </task>
+    <task id="LOCAL-00001" summary="Adds example usage code (Technic 1)&#10;Generate a salt and hash on separate function calls">
+      <created>1606696060868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606696060868</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adds example usage code (Technic 1)&#10;Generate a salt and hash on separate function calls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds example usage code (Technic 1)&#10;Generate a salt and hash on separate function calls" />
   </component>
   <component name="WindowStateProjectService">
     <state x="685" y="259" key="FileChooserDialogImpl" timestamp="1606694393207">
@@ -68,29 +80,29 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="666" y="100" key="Github.UntrackedFilesDialog/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606695185522" />
-    <state width="1863" height="306" key="GridCell.Tab.0.bottom" timestamp="1606695945269">
+    <state width="1863" height="306" key="GridCell.Tab.0.bottom" timestamp="1606696292499">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1863" height="306" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606695945269" />
-    <state width="1863" height="306" key="GridCell.Tab.0.center" timestamp="1606695945269">
+    <state width="1863" height="306" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606696292499" />
+    <state width="1863" height="306" key="GridCell.Tab.0.center" timestamp="1606696292499">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1863" height="306" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606695945269" />
-    <state width="1863" height="306" key="GridCell.Tab.0.left" timestamp="1606695945269">
+    <state width="1863" height="306" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606696292499" />
+    <state width="1863" height="306" key="GridCell.Tab.0.left" timestamp="1606696292499">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1863" height="306" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606695945269" />
-    <state width="1863" height="306" key="GridCell.Tab.0.right" timestamp="1606695945269">
+    <state width="1863" height="306" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606696292499" />
+    <state width="1863" height="306" key="GridCell.Tab.0.right" timestamp="1606696292499">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1863" height="306" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606695945269" />
+    <state width="1863" height="306" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606696292499" />
     <state x="350" y="138" key="SettingsEditor" timestamp="1606694449036">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="350" y="138" key="SettingsEditor/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606694449036" />
-    <state x="451" y="246" key="Vcs.Push.Dialog.v2" timestamp="1606695248113">
+    <state x="451" y="246" key="Vcs.Push.Dialog.v2" timestamp="1606696062494">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="451" y="246" key="Vcs.Push.Dialog.v2/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606695248113" />
+    <state x="451" y="246" key="Vcs.Push.Dialog.v2/0.0.1920.1160/-1920.108.1920.1040@0.0.1920.1160" timestamp="1606696062494" />
   </component>
 </project>
